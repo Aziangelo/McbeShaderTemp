@@ -1,2 +1,2 @@
 # McbeShaderTemp
-An empty template for beginners coder!
+A shader template.
