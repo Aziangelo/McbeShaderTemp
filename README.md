@@ -26,7 +26,16 @@
 **STEP 3**
 - Open MT Manager.
 - Allow Required Permissions.
-- Navigate the 
+- And Follow The Steps Show in The Pictures.
+<img src=".cache/1.jpg" alt="tutorial1" width="180">
+<img src=".cache/2.jpg" alt="tutorial2" width="180">
+<img src=".cache/3.jpg" alt="tutorial3" width="180"> 
+<img src=".cache/4.jpg" alt="tutorial4" width="180">
+<img src=".cache/5.jpg" alt="tutorial5" width="180">
+<img src=".cache/6.jpg" alt="tutorial6" width="180">
+<img src=".cache/1.jpg" alt="tutorial7" width="180">
+<img src=".cache/7.jpg" alt="tutorial8" width="180">
+
 
 ### Credits:
 - [ddf8196](https://github.com/ddf8196)
