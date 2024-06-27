@@ -22,6 +22,12 @@
 - Rename The File (Optional) by Running this command.
 - ```sh
   mv McbeShaderTemp "NewName"
+- Navigate to the folder by Running this command.
+- ```sh
+  cd "McbeShaderTemp"   
+- or if you change the name.
+- ```sh
+  cd "Add The Renamed Name"     
 
 ## **STEP 3**
 - Open MT Manager.
@@ -36,6 +42,11 @@
 <img src=".cache/1.jpg" alt="tutorial7" width="180">
 <img src=".cache/7.jpg" alt="tutorial8" width="180">
 
+## **STEP 4**
+- Now Navigate and Click "Termux Home"
+- You Should see the "McbeShaderTemp" or the "Name You Add" inside.
+- Click on it then you should see this files inside.
+- 
 
 ### Credits:
 - [ddf8196](https://github.com/ddf8196)
