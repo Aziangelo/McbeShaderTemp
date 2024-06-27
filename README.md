@@ -46,7 +46,7 @@
 - Now Navigate and Click "Termux Home"
 - You Should see the "McbeShaderTemp" or the "Name You Add" inside.
 - Click on it then you should see this files inside.
-- 
+<img src=".cache/0.jpg" alt="tutorial5" width="150">
 
 ### Credits:
 - [ddf8196](https://github.com/ddf8196)
