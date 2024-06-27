@@ -7,7 +7,7 @@
   >- [MT Manager](https://mt-manager.en.uptodown.com/android)
 
 
-**STEP 1**
+## **STEP 1**
 - Open Termux.
 - Run the following commands.
 - ```sh
@@ -15,7 +15,7 @@
   pkg upgrade
   pkg install openjdk-17 git
 
-**STEP 2**
+## **STEP 2**
 - Clone this Repository by running this command in termux.
 - ```sh
   git clone
@@ -23,7 +23,7 @@
 - ```sh
   mv McbeShaderTemp "NewName"
 
-**STEP 3**
+## **STEP 3**
 - Open MT Manager.
 - Allow Required Permissions.
 - And Follow The Steps Show in The Pictures.
