@@ -1,2 +1,0 @@
-# McbeShaderTemp
-A shader template.
