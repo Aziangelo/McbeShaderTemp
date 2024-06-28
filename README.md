@@ -81,6 +81,7 @@
 - ```sh
   ./compile.sh -m RenderChunk -p iOS
 - After Running the compiled Materials will be saved on ``SHADERS`` folder.
+- **If you get an errors make sure you're codes is right! and check the errors.**
 
 ## Credits:
 - [ddf8196](https://github.com/ddf8196)
