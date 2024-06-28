@@ -1,6 +1,11 @@
 # MCBE SHADER TEMPLATE
 - Making Shader Hasn't Been More Easier! (￣-￣)
 
+## Using:
+  - Materials 1.20.0
+  - Data: 1.20.0
+  - MBT 0.9.0 - Auto convert to 1.21 support!
+
 # How To Use?
 **Download Requirements:**
   >- [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.1)
