@@ -22,12 +22,7 @@
 - Rename The File (Optional) by Running this command.
 - ```sh
   mv McbeShaderTemp "NewName"
-- Navigate to the folder by Running this command.
-- ```sh
-  cd "McbeShaderTemp"   
-- or if you change the name.
-- ```sh
-  cd "Add The Renamed Name"     
+
 
 ## **STEP 3**
 - Open MT Manager.
@@ -48,7 +43,46 @@
 - Click on it then you should see this files inside.
 <img src=".cache/0.jpg" alt="tutorial5" width="150">
 
-### Credits:
+## **STEP 5: EDITING GUIDE**
+- Open termux.
+- Navigate to the folder by Running this command.
+- ```sh
+  cd "McbeShaderTemp"   
+- or if you change the name.
+- ```sh
+  cd "Add The Renamed Name"     
+- Run this command to make everything works.
+- ```sh
+  find -type f -exec chmod +x {} +
+- Navigate to ``materials/`` folder, you can edit there your codes in src files.
+- **Fragment Code**
+ >- `RenderChunk.fragment.sc`
+  >- Fragment shader code.
+- **Varying Code**
+ >- `RenderChunk.varying.def.sc`
+  >- Varying definitions for shader.
+- **Vertex Code**
+ >- `RenderChunk.vertex.sc`
+  >- Vertex shader code.
+- **Compile Method:**
+- ```sh
+  ./compile.sh -m "materials" -p "platforms"
+- if ``-m`` is unspecified it will build all the materials
+- if ``-p`` is unspecified it will build for Android.
+- The finished Project or the compiled materials will be saved on ``SHADERS/`` folder.
+
+## **Example**
+- Lets Take the RenderChunk as and example.
+- so after you edited the codes in RenderChunk and i want to build it in Android.
+- Run this command in termux.
+- ```sh
+  ./compile.sh -m RenderChunk
+- If i want it to build on iOS run this.
+- ```sh
+  ./compile.sh -m RenderChunk -p iOS
+- After Running the compiled Materials will be saved on ``SHADERS`` folder.
+
+## Credits:
 - [ddf8196](https://github.com/ddf8196)
 - [devendrn](https://github.com/devendrn)
 - [SurvivalApparatusCommunication](https://github.com/SurvivalApparatusCommunication)
