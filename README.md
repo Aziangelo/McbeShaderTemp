@@ -1,5 +1,5 @@
 # MCBE SHADER TEMPLATE
-- Making Shader Hasn't Been More Easier! (￣-￣)
+- Making Shader Hasn't Been More Easier! 💀
 
 ## Using:
   - Materials 1.20.0
