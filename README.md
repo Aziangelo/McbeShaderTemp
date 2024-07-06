@@ -24,10 +24,10 @@
 - Clone this Repository by running this command in termux.
 - ```sh
   git clone
-- Rename The File (Optional) by Running this command.
+- ( Optional ) Rename The File by Running this command.
 - ```sh
   mv McbeShaderTemp "NewName"
-
+ 
 
 ## **STEP 3**
 - Open MT Manager.
