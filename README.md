@@ -1,5 +1,6 @@
 # MCBE SHADER TEMPLATE
-- Making Shader Hasn't Been More Easier! 💀
+- A Simple Shader Template.
+- Can be used to create ur own Shaders.
 
 ## Using:
   - Materials 1.20.0
